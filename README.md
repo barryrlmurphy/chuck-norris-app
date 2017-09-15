@@ -10,7 +10,7 @@ Install the app via npm
 To run the app
 * You will need Xcode install to run the app for iOS
 * You will need Android Studio installed to run the app for Android
-* * Start up the emulator first : tools -> android -> AVD manager -> choose a device
+  * Start up the emulator first : tools -> android -> AVD manager -> choose a device
 * Make sure you are in the root folder
 * react-native run-ios
 * react-native run-android
